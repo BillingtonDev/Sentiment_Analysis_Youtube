@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
     <title>Sentiment Analysis on YouTube Comments</title>
