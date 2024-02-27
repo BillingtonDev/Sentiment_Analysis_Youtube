@@ -1,14 +1,14 @@
-**Sentiment Analysis on YouTube Comments**
-Introduction
-This project aims to perform sentiment analysis on YouTube comments comparing the sentiment between the United States and Great Britain. The sentiment analysis is conducted using natural language processing techniques to analyze the emotional tone of the comments.
+# Sentiment_Analysis_Youtube
+
+**Overview**
+This project is a part of a group effort to analyze the sentiment of YouTube comments comparing the United States and Great Britain. We aim to explore the differences in sentiment between these two regions.
 
 **Contents**
-Data Retrieval & Data Cleaning: Details the process of collecting and cleaning the YouTube comments dataset.
-Data Preprocessing: Explains the steps taken to preprocess the text data for sentiment analysis.
-Exploratory Data Analysis: Provides insights gained from exploring the cleaned dataset.
-Data Visualization: Presents visualizations of the data to better understand the sentiment distribution.
-Dataset
-The dataset used for this project contains comments from YouTube videos in the United States and Great Britain. Each comment is labeled with the video ID, comment text, number of likes, and number of replies.
+1. Data Retrieval & Data Cleaning: Details the process of collecting and cleaning the YouTube comments dataset.
+2. Data Preprocessing: Explains the steps taken to preprocess the text data for sentiment analysis.
+3. Exploratory Data Analysis: Provides insights gained from exploring the cleaned dataset.
+4. Data Visualization: Presents visualizations of the data to better understand the sentiment distribution.
+
 
 **Technologies Used**
 Python
