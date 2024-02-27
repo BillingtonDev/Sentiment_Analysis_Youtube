@@ -35,7 +35,12 @@ Install the required libraries using pip install -r requirements.txt.
 Open the Jupyter Notebook and follow the instructions.
 
 **Contributors**
-[Your Name]
-[Other Contributors, if any]
+
+1. Aryan Jain
+2. Devesh Talreja
+3. Micah Billington
+4. Rupesh Rangwani
+
+
 License
 This project is licensed under the [Your License].
