@@ -1,6 +1,7 @@
 # Sentiment_Analysis_Youtube
 
 **Overview**
+
 This project is a part of a group effort to analyze the sentiment of YouTube comments comparing the United States and Great Britain. We aim to explore the differences in sentiment between these two regions.
 
 **Contents**
