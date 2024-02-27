@@ -30,6 +30,7 @@ Improve sentiment analysis accuracy by using more advanced natural language proc
 Extend the analysis to include comments from other countries for a broader comparison.
 
 **How to Run**
+
 Clone this repository.
 Install the required libraries using pip install -r requirements.txt.
 Open the Jupyter Notebook and follow the instructions.
