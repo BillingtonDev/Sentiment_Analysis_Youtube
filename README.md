@@ -12,17 +12,20 @@ This project is a part of a group effort to analyze the sentiment of YouTube com
 
 
 **Technologies Used**
-Python
-Jupyter Notebook
-Pandas
-NLTK
-Matplotlib
-Seaborn
+
+1. Python
+2. Jupyter Notebook
+3. Pandas
+4. NLTK
+5. Matplotlib
+6. Seaborn
 
 **Results**
+
 The sentiment analysis revealed interesting patterns in the comments from both countries. Further details can be found in the Jupyter Notebook provided in this repository.
 
 **Future Work**
+
 Improve sentiment analysis accuracy by using more advanced natural language processing techniques.
 Extend the analysis to include comments from other countries for a broader comparison.
 
