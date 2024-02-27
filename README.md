@@ -14,7 +14,7 @@ We will be using machine learning and natural language processing techniques to 
 . Pandas
 . NumPy
 . Scikit-learn
-. NLTK
+. Seaborn
 . Matplotlib
 . Jupyter Notebook
 
