@@ -5,10 +5,18 @@
 This project is a part of a group effort to analyze the sentiment of YouTube comments comparing the United States and Great Britain. We aim to explore the differences in sentiment between these two regions.
 
 **Contents**
-1. Data Retrieval & Data Cleaning: Details the process of collecting and cleaning the YouTube comments dataset.
-2. Data Preprocessing: Explains the steps taken to preprocess the text data for sentiment analysis.
-3. Exploratory Data Analysis: Provides insights gained from exploring the cleaned dataset.
-4. Data Visualization: Presents visualizations of the data to better understand the sentiment distribution.
+
+1. Introduction - Background and objectives of the analysis
+2. Data Importing & Cleaning - Loading and preparing the YouTube comments dataset
+3. Exploratory Data Analysis - Uncovering insights through detailed data exploration
+4. Comment Volume Analysis - Comparing number of comments between US and UK
+5. Comment Length Analysis - Distributions of comment character length
+6. Sentiment Polarity Analysis - Using VADER model to score comment sentiment
+7. Emoji Analysis - Extracting and analyzing use of emojis
+8. Engagement Analysis - Statistical analysis of likes, dislikes, replies
+9. Topic Modeling - Using NMF and LDA to extract discussion topics
+10. Interactive Visualizations - Plots generated using Plotly Express and Dash
+11. Model Development - Training sentiment classification and engagement prediction models
 
 
 **Technologies Used**
