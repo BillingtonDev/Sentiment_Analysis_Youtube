@@ -63,6 +63,6 @@ Alternatively, view youtube_comments_analysis.html to see a static HTML export o
 
 Thanks to DataSnaek for curating and releasing the YouTube comments dataset on Kaggle.
 
-## MIT License
+## License
 
 This project is licensed under the [MIT License](LICENSE).
