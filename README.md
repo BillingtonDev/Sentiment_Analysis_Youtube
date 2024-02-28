@@ -65,7 +65,7 @@ Thanks to DataSnaek for curating and releasing the YouTube comments dataset on K
 
 **MIT License**
 
-Copyright (c) [2024] [Rupesh Rangwani]
+Copyright (c) [2024] [Aryan Jain, Devesh Talreja, Micah Billington, Rupesh Rangwani]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
