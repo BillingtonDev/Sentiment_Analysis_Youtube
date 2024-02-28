@@ -60,6 +60,7 @@ Alternatively, view youtube_comments_analysis.html to see a static HTML export o
 4. Rupesh Rangwani
 
 **Credits**
+
 Thanks to DataSnaek for curating and releasing the YouTube comments dataset on Kaggle.
 
 **MIT License**
