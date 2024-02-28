@@ -59,6 +59,8 @@ Alternatively, view youtube_comments_analysis.html to see a static HTML export o
 3. Micah Billington
 4. Rupesh Rangwani
 
+**Credits**
+Thanks to DataSnaek for curating and releasing the YouTube comments dataset on Kaggle.
 
-License
+**License**
 This project is licensed under the [Your License].
