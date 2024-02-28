@@ -2,7 +2,7 @@
 
 **Overview**
 
-This project is a part of a group effort to analyze the sentiment of YouTube comments comparing the United States and Great Britain. We aim to explore the differences in sentiment between these two regions.
+This project is a part of a group effort to analyze the sentiment of YouTube comments comparing the United States and Great Britain. We aim to explore the differences in sentiment between these two regions, and consider the effect of the comments sentiment to the interaction on a video.
 
 **Contents**
 
