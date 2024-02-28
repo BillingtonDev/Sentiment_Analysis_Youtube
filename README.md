@@ -10,13 +10,12 @@ This project is a part of a group effort to analyze the sentiment of YouTube com
 2. Data Importing & Cleaning - Loading and preparing the YouTube comments dataset
 3. Exploratory Data Analysis - Uncovering insights through detailed data exploration
 4. Comment Volume Analysis - Comparing number of comments between US and UK
-5. Comment Length Analysis - Distributions of comment character length
-6. Sentiment Polarity Analysis - Using VADER model to score comment sentiment
-7. Emoji Analysis - Extracting and analyzing use of emojis
-8. Engagement Analysis - Statistical analysis of likes, dislikes, replies
-9. Topic Modeling - Using NMF and LDA to extract discussion topics
-10. Interactive Visualizations - Plots generated using Plotly Express and Dash
-11. Model Development - Training sentiment classification and engagement prediction models
+5. Sentiment Polarity Analysis - Using VADER model to score comment sentiment
+6. Emoji Analysis - Extracting and analyzing use of emojis
+7. Engagement Analysis - Statistical analysis of likes, dislikes, replies
+8. Topic Modeling - Using NMF and LDA to extract discussion topics
+9. Interactive Visualizations - Plots generated using Plotly Express and Dash
+10. Model Development - Training sentiment classification and engagement prediction models
 
 ## Datasets 
 
