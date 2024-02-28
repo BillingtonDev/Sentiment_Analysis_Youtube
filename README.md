@@ -44,12 +44,12 @@ Extend the analysis to include comments from other countries for a broader compa
 
 ## How to Run
 
-Clone the repository
-Install dependencies like pandas, nltk, scikit-learn
-Run jupyter notebook to start Jupyter
-Open the youtube_comments_analysis.ipynb notebook
-Run the cells in order to reproduce the analysis
-Alternatively, view youtube_comments_analysis.html to see a static HTML export of the executed notebook.
+1. Clone the repository
+2. Install dependencies like pandas, nltk, scikit-learn
+3. Run jupyter notebook to start Jupyter
+4. Open the youtube_comments_analysis.ipynb notebook
+5. Run the cells in order to reproduce the analysis
+6. Alternatively, view youtube_comments_analysis.html to see a static HTML export of the executed notebook.
 
 ## Contributors 
 
