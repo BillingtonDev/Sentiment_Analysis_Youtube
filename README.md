@@ -24,6 +24,7 @@ This project is a part of a group effort to analyze the sentiment of YouTube com
 2. GBvideos.csv and GBcomments.csv - Video metadata and comments from United Kingdom
 
 These CSV files contain samples of YouTube data scraped and published on Kaggle.
+
 **Technologies Used**
 
 1. Python
@@ -44,9 +45,12 @@ Extend the analysis to include comments from other countries for a broader compa
 
 **How to Run**
 
-Clone this repository.
-Install the required libraries using pip install -r requirements.txt.
-Open the Jupyter Notebook and follow the instructions.
+Clone the repository
+Install dependencies like pandas, nltk, scikit-learn
+Run jupyter notebook to start Jupyter
+Open the youtube_comments_analysis.ipynb notebook
+Run the cells in order to reproduce the analysis
+Alternatively, view youtube_comments_analysis.html to see a static HTML export of the executed notebook.
 
 **Contributors**
 
