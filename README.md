@@ -18,7 +18,12 @@ This project is a part of a group effort to analyze the sentiment of YouTube com
 10. Interactive Visualizations - Plots generated using Plotly Express and Dash
 11. Model Development - Training sentiment classification and engagement prediction models
 
+**Datasets**
 
+1. USvideos.csv and UScomments.csv - Video metadata and comments from United States
+2. GBvideos.csv and GBcomments.csv - Video metadata and comments from United Kingdom
+
+These CSV files contain samples of YouTube data scraped and published on Kaggle.
 **Technologies Used**
 
 1. Python
