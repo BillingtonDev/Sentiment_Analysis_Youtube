@@ -32,6 +32,7 @@ These CSV files contain samples of YouTube data scraped and published on Kaggle.
 4. NLTK
 5. Matplotlib
 6. Seaborn
+7. Deepnote Notebook
 
 ## Results
 
